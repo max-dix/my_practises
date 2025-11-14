@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace sdt;
+int main(){
+cout << "hello, GitHub!" << endl;
+return 0;
+}
